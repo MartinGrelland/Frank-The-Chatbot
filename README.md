@@ -1,10 +1,8 @@
 # Frank The Chatbot
 
-This is my project
+This is my school project
 
-> Like a wise man one said. Quote.
-
-So my project was to make a chatbot.
+My task was to make a chatbot.
 
 My chatbot is named Frank.
 
@@ -25,6 +23,5 @@ Text
 ## Examples
 
 Text
-
 
 ## About
