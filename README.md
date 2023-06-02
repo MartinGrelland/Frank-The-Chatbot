@@ -18,7 +18,7 @@ Text
 
 ## Typewriter effect
 
-I used this code:
+I used this code: 
 
 ```
 def typewriter_effect(text):
