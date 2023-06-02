@@ -15,7 +15,7 @@ You can read how i did it in the comments i made in the code.
 I coded this myself but used youtube as help somethimes.
 
 ## How it works
-#This are the questions Frank can answer
+# This are the questions Frank can answer
 
 ```
 
