@@ -23,5 +23,3 @@ Text
 ## Examples
 
 Text
-
-## About
