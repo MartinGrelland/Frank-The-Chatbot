@@ -18,7 +18,7 @@ Text
 
 ## Installation
 
-Text
+Step 1: Place .py document on your computer.
 
 ## Examples
 
