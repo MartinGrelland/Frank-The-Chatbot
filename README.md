@@ -16,7 +16,7 @@ I coded this myself but used youtube as help somethimes.
 
 Text
 
-### Typewriter effect
+## Typewriter effect
 
 I used this code:
 
