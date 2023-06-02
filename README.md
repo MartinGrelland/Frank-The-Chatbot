@@ -16,6 +16,19 @@ I coded this myself but used youtube as help somethimes.
 
 Text
 
+## This are the questions Frank can answer
+
+I used this code: 
+```
+
+qna = {
+    "hi":"hey",
+    "how are you":"i am fine",
+    "what is your name":"my name is Frank",
+    "how old are you":"i am 1 years old",
+    "what is the time now" : now,
+}
+```
 ## Typewriter effect
 
 I used this code: 
