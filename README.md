@@ -1,3 +1,5 @@
+![Frank The Chatbot](https://nordvpn.com/wp-content/uploads/blog-social-what-is-chatbot-1200x628-1.png)
+
 # Frank The Chatbot
 
 This is my school project
