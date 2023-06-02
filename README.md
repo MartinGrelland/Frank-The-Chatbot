@@ -32,4 +32,4 @@ def typewriter_effect(text):
 
 Step 1: Place .py document in your computer wherever you like.
 
-### Thank you
+# Thank you
