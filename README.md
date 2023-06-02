@@ -16,9 +16,18 @@ I coded this myself but used youtube as help somethimes.
 
 Text
 
+### Typewriter effect
+
+I used this code:
+< def typewriter_effect(text):
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(0.05)  # Adjust the delay as per your preference
+    print()
+
 ## Installation
 
-Step 1: Place .py document on your computer.
+Step 1: Place .py document in your computer wherever you like.
 
 ## Examples
 
