@@ -19,11 +19,14 @@ Text
 ### Typewriter effect
 
 I used this code:
-< def typewriter_effect(text):
+
+```
+def typewriter_effect(text):
     for char in text:
         print(char, end='', flush=True)
         time.sleep(0.05)  # Adjust the delay as per your preference
     print()
+```
 
 ## Installation
 
