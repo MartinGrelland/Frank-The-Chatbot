@@ -20,7 +20,6 @@ Text
 
 ## This are the questions Frank can answer
 
-I used this code: 
 ```
 
 qna = {
